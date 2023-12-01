@@ -1,0 +1,2 @@
+create table Category(Id int, Name nvarchar(100), UrlHandle nvarchar(100))
+select * from Category
